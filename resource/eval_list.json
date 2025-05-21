@@ -1,0 +1,22 @@
+[
+    "fact_verification",
+    "fill_in_the_blank",
+    "question_rewriting",
+    "question_understanding",
+    "sentence_ordering",
+    "stereotype_detection",
+    "title_generation",
+    "word_analogy",
+    "speaker_identification",
+    "text_quality_evaluation",
+    "dialogue_generation",
+    "word_semantics",
+    "negotiation_strategy_detection",
+    "pos_tagging",
+    "text_categorization",
+    "stance_detection",
+    "text_to_code",
+    "question_answering",
+    "intent_identification",
+    "text_matching"
+]
