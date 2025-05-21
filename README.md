@@ -13,3 +13,5 @@ needed resources: SNI dataset(you can download it from https://github.com/allena
 6. get output of the task by yield_output.py
 
 7. get result by using eval_result.py
+
+Main method available now, other method will be uploaded soon.
